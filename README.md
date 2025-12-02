@@ -20,7 +20,7 @@ Currently focused on **Jetpack Compose**, **Kotlin**, and improving my overall d
 
 ### **Languages & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,sqlite" />
 </p>
 
 ### **Android / Mobile Development**
