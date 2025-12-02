@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&lines=Hi+I'm+Hamdy+👋;Android+Developer+📱;Graphic+Designer+🎨;UI%2FUX+Enthusiast+✨" alt="Typing SVG">
+</p>
 
-<!--
-**InvalidHamdy/InvalidHamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+I’m **Hamdy**, an **Android Developer** and **Graphic Designer** who loves building clean, modern UI experiences.  
+Currently focused on **Jetpack Compose**, **Kotlin**, and improving my overall development workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Building Android apps with **performance + aesthetics** in mind  
+- 🎨 Graphic designer moving toward **UI/UX product design**  
+- 🚀 Always learning, always improving  
+- 🌱 Preparing for future opportunities & travel  
+
+---
+
+## 🔥 Tech Stack & Tools  
+### **Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" />
+</p>
+
+### **Design & Creative**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+### **Other Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=InvalidHamdy&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=InvalidHamdy&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvalidHamdy&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+Here are some of the things I'm working on:
+
+- 📱 **Android Apps using Jetpack Compose**  
+- 🎨 **UI/UX experimental layouts**  
+- ⚙️ **Performance-optimized mobile features**
+
+_(Add links to your repos when ready!)_
+
+---
+
+## 📬 Connect With Me
+<p>
+  <a href="https://github.com/InvalidHamdy"><img src="https://skillicons.dev/icons?i=github" /></a>
+  &nbsp; 
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  &nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">✨ Always building. Always growing. ✨</p>
