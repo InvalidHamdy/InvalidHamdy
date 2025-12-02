@@ -17,12 +17,23 @@ Currently focused on **Jetpack Compose**, **Kotlin**, and improving my overall d
 ---
 
 ## 🔥 Tech Stack & Tools  
-### **Mobile Development**
+
+### **Languages & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cplusplus,sql,mysql,sqlite" />
 </p>
 
-### **Design & Creative**
+### **Android / Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,room" />
+</p>
+
+### **Architecture & Connectivity**
+<p>
+  <b>MVVM | API Connectivity | Problem Solving</b>
+</p>
+
+### **Design & Creative Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
