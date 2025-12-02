@@ -20,17 +20,12 @@ Currently focused on **Jetpack Compose**, **Kotlin**, and improving my overall d
 
 ### **Languages & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,c++,sql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,sql,mysql,sqlite" />
 </p>
 
 ### **Android / Mobile Development**
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,room" />
-</p>
-
-### **Architecture & Connectivity**
-<p>
-  <b>MVVM | API Connectivity | Problem Solving</b>
 </p>
 
 ### **Design & Creative Tools**
@@ -40,7 +35,12 @@ Currently focused on **Jetpack Compose**, **Kotlin**, and improving my overall d
 
 ### **Other Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,firebase" />
+</p>
+
+### **Architecture & Connectivity**
+<p>
+  <b>MVVM | API Connectivity | Problem Solving</b>
 </p>
 
 ---
@@ -72,9 +72,11 @@ _(Add links to your repos when ready!)_
 <p>
   <a href="https://github.com/InvalidHamdy"><img src="https://skillicons.dev/icons?i=github" /></a>
   &nbsp; 
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/mxh_infinity/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   &nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/invalidhamdy/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/invalidhamdy/"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
